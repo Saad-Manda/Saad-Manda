@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Skill-Bridge<br>👯 I’m looking to collaborate on any project based on Machine-Learning, NLP, Generative AI<br>🌱 I’m currently exploring Agentic AI and Game Development
+🔭 I’m currently working on SkillIssue.ai<br>👯 I’m looking to collaborate on any project based on Machine-Learning, NLP, Generative AI<br>🌱 I’m currently exploring Agentic AI and Game Development
 
 
 ## 🌐 Socials:
